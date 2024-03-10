@@ -14,6 +14,6 @@ After everything is installed, run `npm run start` and navigate to http://localh
 
 Please Note: The OpenWeather API is using an API Key. In the repository you fill find a `.env.example` file which you need to copy/save as `.env` and paste the value of your API key (which you can get when you register on the OpenWeather API website).
 
-## токен для гітхаба = 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
+## токен для гітхаба = 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
 
-git remote set-url origin https://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@github.com/MaxBrenzey/weather-react-typescript
+git remote set-url origin https://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@github.com/MaxBrenzey/weather-react-typescript
